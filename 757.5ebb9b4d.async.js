@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkayongui_warp_demo=self.webpackChunkayongui_warp_demo||[]).push([[757],{2757:function(u,a,e){e.r(a),a.default={warp:"q5WOqZPtPjEZSKOnjKBj",ddbox:"KaHOfIHf22MxygMrTK5b","dumi-default-hero":"J6aQLzlmRWEJdZmoVxYV",tabs:"A6SNGzKZxcB2YDRDbb4_",tab:"bv_PUjfdvU9g7TzpQrB8",active:"cb6BoAZ24uZDSllaCPsQ",ayongweixin:"fdYQZjBhyxEIpnmWiIxe"}}}]);
